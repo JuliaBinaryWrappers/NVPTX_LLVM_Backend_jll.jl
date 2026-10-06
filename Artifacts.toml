@@ -1,29 +1,29 @@
 [[NVPTX_LLVM_Backend]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22cc7139341f1be079737ad09d343a2f480c711f"
+git-tree-sha1 = "4f23ca91efc27b722a7a988e3533f7180c2c03e2"
 libc = "glibc"
 os = "linux"
 
     [[NVPTX_LLVM_Backend.download]]
-    sha256 = "cc926170233605047b86a0b301d174bda4a8a457c6f6d2f10f987a279f643385"
-    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+0/NVPTX_LLVM_Backend.v23.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "18fc4bd23765f8ae3bfa678af0fb752fc79e42c0beffa9ee21c799f04d7f0064"
+    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+1/NVPTX_LLVM_Backend.v23.1.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[NVPTX_LLVM_Backend]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7787f46af7c5b3e682cf3bc2e7a2ef3092586b7"
+git-tree-sha1 = "c66ab5fe146758d485207b090ec9d5b148723b49"
 libc = "glibc"
 os = "linux"
 
     [[NVPTX_LLVM_Backend.download]]
-    sha256 = "2dd764a62ceb3f12d80423d2b48eb43fd26bcfe3d3348b6d6c2467334a77c075"
-    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+0/NVPTX_LLVM_Backend.v23.1.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "04f59d757484b7b038da37a3223fd2ac076f94d63941c1bfbc4d7bbd9bd1679f"
+    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+1/NVPTX_LLVM_Backend.v23.1.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[NVPTX_LLVM_Backend]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6883534b2049b807e904edf928185f52687e4e9a"
+git-tree-sha1 = "48f717fac36911e1820c728a730a8158b202bdff"
 os = "windows"
 
     [[NVPTX_LLVM_Backend.download]]
-    sha256 = "27c09916cb756657d0d64de384b7b99c461551edc4c1fc07429f8ea2d009674f"
-    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+0/NVPTX_LLVM_Backend.v23.1.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "ccbacf194fb9a6b6fe33309fd13643a2549bddcd2eaf3c4d328f4bcb5ff06ca3"
+    url = "https://github.com/JuliaBinaryWrappers/NVPTX_LLVM_Backend_jll.jl/releases/download/NVPTX_LLVM_Backend-v23.1.2+1/NVPTX_LLVM_Backend.v23.1.2.x86_64-w64-mingw32-cxx11.tar.gz"
